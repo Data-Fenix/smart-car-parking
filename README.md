@@ -1,4 +1,5 @@
 # Smart Car Parking: Predictive Availability System
+![Cover Image](cover.png)
 
 A machine learning system that predicts parking spot availability using historical occupancy, weather, and location data. Achieves **91.6% R²** with **~1 spot MAE** using Random Forest regression.
 
